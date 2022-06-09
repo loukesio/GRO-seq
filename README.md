@@ -21,8 +21,8 @@ http://genometools.org/
 
 ### References 
 
-[1] https://github.com/vari-bbc/GROseq_scripts/blob/main/GROP_20190515_GroSeq.Rmd 
-[2] https://github.com/vari-bbc/GROseq_scripts/blob/main/GROP_20190515_GroSeq.sh
-[3] https://nf-co.re/nascent
-[4] https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02349-4
-[5] https://github.com/Danko-Lab/tutorials/blob/master/PRO-seq.md
+[1] https://github.com/vari-bbc/GROseq_scripts/blob/main/GROP_20190515_GroSeq.Rmd <br>
+[2] https://github.com/vari-bbc/GROseq_scripts/blob/main/GROP_20190515_GroSeq.sh <br>
+[3] https://nf-co.re/nascent <br>
+[4] https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02349-4 <br>
+[5] https://github.com/Danko-Lab/tutorials/blob/master/PRO-seq.md <br>
