@@ -26,3 +26,4 @@ http://genometools.org/
 [3] https://nf-co.re/nascent <br>
 [4] https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02349-4 <br>
 [5] https://github.com/Danko-Lab/tutorials/blob/master/PRO-seq.md <br>
+[6] https://scientiasalut.gencat.cat/bitstream/handle/11351/6516/proapoptotic_gene_interferon_regulatory_factor_1_mediates_antiproliferative_outcome_paired_box_2_gene_tamoxifen_2020_material_suplementari.pdf?sequence=2&isAllowed=y
